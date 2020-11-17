@@ -1,3 +1,6 @@
+
+//This contains methods that will appear later in some other class or place. I havent decided as I am tired. Basically a proof of concept/solution.
+
 public class Misc
 {
 
